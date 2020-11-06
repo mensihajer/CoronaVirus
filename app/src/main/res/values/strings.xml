@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoronaVirus</string>
+    <string name="titre">CONSEILS</string>
+    <string name="titre2">RESULTAT</string>
+    <string name="btn">Test</string>
+    <string name="fermer">Fermer</string>
+    <string name="txt">Comment se protéger et protéger les autres au quotidien ?</string>
+    <string name="c1">Respectez au maximum les mesures de distanciation sociales."</string>
+    <string name="c2">Portez un masque.</string>
+    <string name="c3">Limitez les interactions sociales, certaines personnes transmettent le virus sans en ressentir les symptômes.</string>
+    <string name="c4">Lavez-vous très régulièrement les mains.</string>
+    <string name="c5">Toussez ou éternuez dans votre coude ou dans un mouchoir.</string>
+    <string name="c6">Utilisez un mouchoir à usage unique et jetez-le.</string>
+    <string name="rq">La recommandation affichée peut évoluer suivant les informations en provenance des autorités de santé et des chercheurs. Elle ne constitue pas un avis médical. En cas de doute, demandez conseil à votre médecin ou pharmacien.</string>
+    <string name="resultatnigative">Votre état ne semble pas préoccupant ou ne relève probablement pas du COVID 19.</string>
+    <string name="resultatpositif">Votre situation peut relever d’un COVID 19. Vos symptômes nécessitent une prise en charge rapide.</string>
+    <string name="fin">Merci pour votre confiance, nous souhaitons santé et bien-étre à tous</string>
+
+</resources>
